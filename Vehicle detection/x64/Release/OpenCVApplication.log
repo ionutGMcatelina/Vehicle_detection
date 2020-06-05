@@ -1,0 +1,77 @@
+﻿  OpenCVApplication.cpp
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(434): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(446): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(474): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(481): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(777): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(778): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(779): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(810): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(811): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(812): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(893): warning C4778: 'printf' : unterminated format string '%.4 '
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(893): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(893): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(923): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(967): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1166): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'overloaded-function' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(508): note: could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(480): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(460): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(440): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(420): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(400): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(380): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(360): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(340): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(320): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(295): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(275): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(241): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(221): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(215): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(209): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(204): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\utility.hpp(401): note: or       'std::ostream &cv::operator <<(std::ostream &,const cv::TickMeter &)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\cvstd.inl.hpp(266): note: or       'std::ostream &cv::operator <<(std::ostream &,const cv::MatSize &)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\cvstd.inl.hpp(187): note: or       'std::ostream &cv::operator <<(std::ostream &,const cv::UMat &)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\cvstd.inl.hpp(181): note: or       'std::ostream &cv::operator <<(std::ostream &,const cv::Mat &)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\cvstd.inl.hpp(172): note: or       'std::ostream &cv::operator <<(std::ostream &,cv::Ptr<cv::Formatted>)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\cvstd.inl.hpp(166): note: or       'std::ostream &cv::operator <<(std::ostream &,const cv::String &)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core.hpp(3036): note: or       'cv::String &cv::operator <<(cv::String &,const cv::Mat &)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core.hpp(3027): note: or       'cv::String &cv::operator <<(cv::String &,cv::Ptr<cv::Formatted>)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\persistence.hpp(1199): note: or       'cv::FileStorage &cv::operator <<(cv::FileStorage &,char *)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\persistence.hpp(1191): note: or       'cv::FileStorage &cv::operator <<(cv::FileStorage &,const char *)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\persistence.hpp(787): note: or       'cv::FileStorage &cv::operator <<(cv::FileStorage &,const cv::String &)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(1047): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(981): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(974): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(967): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(960): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(921): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,_Elem)'
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(874): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const _Elem *)'
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(834): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(787): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(749): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\ostream(702): note: or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\users\ionut\desktop\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1166): note: while trying to match the argument list '(std::ostream, overloaded-function)'

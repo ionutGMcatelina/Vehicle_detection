@@ -1,0 +1,21 @@
+﻿  OpenCVApplication.cpp
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(460): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(463): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(576): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(578): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(586): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(587): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(593): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(595): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(620): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(635): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(839): warning C4101: 'j': unreferenced local variable
+c:\users\ionut\desktop\pi\piproject\opencvapplication.cpp(486): warning C4715: 'zone': not all control paths return a value
+  OpenCVApplication.vcxproj -> C:\Users\Ionut\Desktop\PI\PIproject\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
